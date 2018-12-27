@@ -1,0 +1,42 @@
+.video {
+    margin: 0 auto;
+    min-width: 90%;
+    min-height: 90%;
+    width: 90%;
+    height: 90%;
+}
+
+body,
+head {
+    font-family: 'Quicksand', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    line-height: 1.1;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+img {
+    margin: 0.2rem;
+}
+
+.container {
+    max-width: 1140px;
+    margin: auto;
+    padding: 20px 10px;
+    align-items: stretch;
+}
+
+.social {
+    display: flex;
+    justify-content: flex-end
+}
+
+.container a, 
+.contact-icons a,
+.footer-content,
+.footer-content a {
+    color: #7e57c2;
+    text-decoration: none;
+}
